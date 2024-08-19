@@ -2,7 +2,7 @@
 Analytics Portfolio
 - 👋 Hi, I’m @Koushikdubey
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently studying in Chandigarh University
+- 🌱 I’m currently persuing my BBA in Business Analytics from Chandigarh University
 
 
 <!---
